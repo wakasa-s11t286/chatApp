@@ -26,25 +26,36 @@ SQLite3
 以下のgenをインストール
 
 ・devise   認証用
+
 ・rails-i18n   日本語化用
+
 ・devise-i18n  日本語化用
+
 ・devise-bootstrap-views    Viewカスタム用bootstrap
 
 # Usage
 ・必要に応じて、以下を実行
+
 　$ rails bundle install
 　
 ・DBを作り直す場合
+
 　$ rails db:migrate:reset
+ 
 　(すでに初期ユーザとサンプルメッセージデータあり)
 　
 　初期ユーザ（ログインユーザ）
+ 
 　　Eメール: test1@example.com
+  
 　　パスワード: password
 
 
-・サーバ起動後に、ログインページへアクセス。
+・サーバ起動後に、ログインページへアクセス。<br/>
+
 　ログイン後にチャットルームへ。
-  $ rails server
+ 
+   $ rails server
+  
 　URL：http://localhost:3000/
 
