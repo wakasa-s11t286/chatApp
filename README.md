@@ -1,19 +1,19 @@
 # Name
 
-‚æ‚­‚ ‚éŠÈˆÕƒ`ƒƒƒbƒgƒAƒvƒŠB(for Ruby on Rails )
-ƒ†[ƒU‚²‚Æ‚É”FØ‚ğİ‚¯A•¡”ƒ†[ƒU‚ÆƒƒbƒZ[ƒW‚Ì‚â‚èæ‚è‚ª‚Å‚«‚Ü‚·B
-i”ñ“¯Šúj
+ã‚ˆãã‚ã‚‹ç°¡æ˜“ãƒãƒ£ãƒƒãƒˆã‚¢ãƒ—ãƒªã€‚(for Ruby on Rails )
+ãƒ¦ãƒ¼ã‚¶ã”ã¨ã«èªè¨¼ã‚’è¨­ã‘ã€è¤‡æ•°ãƒ¦ãƒ¼ã‚¶ã¨ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã®ã‚„ã‚Šå–ã‚ŠãŒã§ãã¾ã™ã€‚
+ï¼ˆéåŒæœŸï¼‰
 
 
 # DEMO
 
-“®‰æQÆ
+å‹•ç”»å‚ç…§
 
 
 # Requirement
 
-RubyF3.0.3
-RailsF6.1.4.6
+Rubyï¼š3.0.3<br/>
+Railsï¼š6.1.4.6
 
 
 # DB
@@ -23,28 +23,28 @@ SQLite3
 
 # Installation
 
-ˆÈ‰º‚Ìgen‚ğƒCƒ“ƒXƒg[ƒ‹
+ä»¥ä¸‹ã®genã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«
 
-Edevise   ”FØ—p
-Erails-i18n   “ú–{Œê‰»—p
-Edevise-i18n  “ú–{Œê‰»—p
-Edevise-bootstrap-views    ViewƒJƒXƒ^ƒ€—pbootstrap
+ãƒ»devise   èªè¨¼ç”¨
+ãƒ»rails-i18n   æ—¥æœ¬èªåŒ–ç”¨
+ãƒ»devise-i18n  æ—¥æœ¬èªåŒ–ç”¨
+ãƒ»devise-bootstrap-views    Viewã‚«ã‚¹ã‚¿ãƒ ç”¨bootstrap
 
 # Usage
-E•K—v‚É‰‚¶‚ÄAˆÈ‰º‚ğÀs
-@$ rails bundle install
-@
-EDB‚ğì‚è’¼‚·ê‡
-@$ rails db:migrate:reset
-@(‚·‚Å‚É‰Šúƒ†[ƒU‚ÆƒTƒ“ƒvƒ‹ƒƒbƒZ[ƒWƒf[ƒ^‚ ‚è)
-@
-@‰Šúƒ†[ƒUiƒƒOƒCƒ“ƒ†[ƒUj
-@@Eƒ[ƒ‹: test1@example.com
-@@ƒpƒXƒ[ƒh: password
+ãƒ»å¿…è¦ã«å¿œã˜ã¦ã€ä»¥ä¸‹ã‚’å®Ÿè¡Œ
+ã€€$ rails bundle install
+ã€€
+ãƒ»DBã‚’ä½œã‚Šç›´ã™å ´åˆ
+ã€€$ rails db:migrate:reset
+ã€€(ã™ã§ã«åˆæœŸãƒ¦ãƒ¼ã‚¶ã¨ã‚µãƒ³ãƒ—ãƒ«ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ãƒ‡ãƒ¼ã‚¿ã‚ã‚Š)
+ã€€
+ã€€åˆæœŸãƒ¦ãƒ¼ã‚¶ï¼ˆãƒ­ã‚°ã‚¤ãƒ³ãƒ¦ãƒ¼ã‚¶ï¼‰
+ã€€ã€€Eãƒ¡ãƒ¼ãƒ«: test1@example.com
+ã€€ã€€ãƒ‘ã‚¹ãƒ¯ãƒ¼ãƒ‰: password
 
 
-EƒT[ƒo‹N“®Œã‚ÉAƒƒOƒCƒ“ƒy[ƒW‚ÖƒAƒNƒZƒXB
-@ƒƒOƒCƒ“Œã‚Éƒ`ƒƒƒbƒgƒ‹[ƒ€‚ÖB
+ãƒ»ã‚µãƒ¼ãƒèµ·å‹•å¾Œã«ã€ãƒ­ã‚°ã‚¤ãƒ³ãƒšãƒ¼ã‚¸ã¸ã‚¢ã‚¯ã‚»ã‚¹ã€‚
+ã€€ãƒ­ã‚°ã‚¤ãƒ³å¾Œã«ãƒãƒ£ãƒƒãƒˆãƒ«ãƒ¼ãƒ ã¸ã€‚
   $ rails server
-@URLFhttp://localhost:3000/
+ã€€URLï¼šhttp://localhost:3000/
 
