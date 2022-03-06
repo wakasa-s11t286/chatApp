@@ -51,15 +51,15 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-# ƒƒOƒCƒ“‹@”\
+# ãƒ­ã‚°ã‚¤ãƒ³æ©Ÿèƒ½
 gem 'devise'
 
-# “ú–{Œê‰»
+# æ—¥æœ¬èªžåŒ–
 gem 'rails-i18n', '~> 6.0'
 gem 'devise-i18n'
 
-# ‚±‚¿‚ç‚Í‚¨D‚Ý‚Å‚·BƒƒOƒCƒ“ƒy[ƒW‚ÉBootstrap‚ª“K—p‚³‚êCŒ©‚½–Ú‚ªƒ}ƒV‚É‚È‚è‚Ü‚·
+# Bootstrap
 gem 'devise-bootstrap-views', '~> 1.0'
 
-# ‚±‚¿‚ç‚à‚¨D‚Ý‚Å‚·B“®ìŠm”F—p‚Ìƒ‰ƒ“ƒ_ƒ€ƒƒbƒZ[ƒW‚ð“ü‚ê‚é‚½‚ß‚ÉŽg—p‚µ‚Ü‚·
+# ã“ã¡ã‚‰ã‚‚ãŠå¥½ã¿ã§ã™ã€‚å‹•ä½œç¢ºèªç”¨ã®ãƒ©ãƒ³ãƒ€ãƒ ãƒ¡ãƒƒã‚»ãƒ¼ã‚¸ã‚’å…¥ã‚Œã‚‹ãŸã‚ã«ä½¿ç”¨ã—ã¾ã™
 gem 'faker'
