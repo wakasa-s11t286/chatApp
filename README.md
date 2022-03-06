@@ -3,7 +3,8 @@
 よくある簡易チャットアプリ。(for Ruby on Rails )
 ユーザごとに認証を設け、複数ユーザとメッセージのやり取りができます。
 （非同期）
-
+<br/>
+Rails7.0以降では動作不可
 
 # DEMO
 
@@ -38,13 +39,16 @@ SQLite3
 
 　$ rails bundle install
 　
+ 
 ・DBを作り直す場合
 
 　$ rails db:migrate:reset
  
 　(すでに初期ユーザとサンプルメッセージデータあり)
 　
-　初期ユーザ（ログインユーザ）
+　<br/>
+ 
+   初期ユーザ（ログインユーザ）
  
 　　Eメール: test1@example.com
   
