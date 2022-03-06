@@ -14,7 +14,8 @@ Rails7.0以降では動作不可
 動画参照
 
 
-https://user-images.githubusercontent.com/79237619/156915544-b2ac049a-42bc-4f30-a580-a699146f3530.mp4
+
+https://user-images.githubusercontent.com/79237619/156926988-6fb1dbec-ebfc-49ac-af00-d2f8f49ced6a.mp4
 
 
 
