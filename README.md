@@ -11,6 +11,10 @@ Rails7.0以降では動作不可
 動画参照
 
 
+https://user-images.githubusercontent.com/79237619/156915544-b2ac049a-42bc-4f30-a580-a699146f3530.mp4
+
+
+
 # Requirement
 
 Ruby：3.0.3<br/>
