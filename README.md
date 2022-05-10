@@ -70,4 +70,3 @@ SQLite3
    $ rails server
   
 　URL：http://localhost:3000/
-
